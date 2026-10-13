@@ -1,3 +1,4 @@
-julesansart@192.168.68.53
-julesansart@192.168.68.57
-julesansart@192.168.68.61
+julesansart@192.168.200.171
+julesansart@192.168.200.142
+julesansart@192.168.200.139
+julesansart@192.168.200.194 ansible_become_exe=/usr/bin/sudo  
